@@ -21,12 +21,14 @@ Esta sección se actualizará a medida que se incorporen nuevas tecnologías dur
 
 El proyecto está organizado de la siguiente manera:
 
+```text
 dwes-2026/
 ├── docs/
 ├── public/
 ├── src/
 ├── .gitignore
 └── README.md
+```
 
 - `docs/`: documentación relacionada con el proyecto.
 - `public/`: archivos públicos del proyecto.
